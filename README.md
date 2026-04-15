@@ -1,2 +1,2 @@
 # devops
-For practice purpose
+DevOps Projects
